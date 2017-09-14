@@ -1,0 +1,151 @@
+body {
+    background-image: url("https://mikekogan.me/assets/html/gottrivia/637668.jpg");
+    background-size:cover;
+    background-position:center-bottom;
+    background-repeat: repeat;
+
+    
+    }
+
+    *{  font-family: 'Cinzel', serif;
+        box-sizing: border-box;
+    }
+
+
+  .container{
+    margin-bottom:0px;
+  }
+
+  .timer{
+  	color:#eee;
+  }
+ 
+
+  #directions{
+  	background: #eee;
+  	padding:30px;
+  	margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+
+.jumbotron{
+	overflow: auto;
+	
+}
+
+/*TITLE*/
+#jumbotron0{
+  padding:10px 40px 0px 40px;
+  height:250px;
+   opacity: 0.9;
+}
+
+#title, #directions1, #start{
+  font-family: 'Cinzel', serif;
+}
+
+
+/*TIMER*/
+#jumbotron1{
+/*position:fixed;
+left:100px;
+z-index: 1;
+opacity: 0.8;*/
+height:70px;
+}
+
+#jumbotronStill{
+/*position:fixed;
+left:100px;
+z-index: 1;
+opacity: 0.8;*/
+height:70px;
+}
+
+/*START BUTTON*/
+#jumbotron2{
+  opacity: 0.9;
+}
+
+
+
+
+/*QUESTIONS*/
+#jumbotron3{
+    margin-top:0px;
+    opacity: 0.9;
+
+    
+    
+
+}
+
+.radio-inline{
+
+}
+
+#jumbotron5{
+	opacity:0;
+}
+
+#next{
+  }
+
+.answerBox{
+  
+  height:65px;
+  border:1px;
+  overflow: auto;
+}
+
+.answerBox1{
+  height:65px;
+  background:#eee;
+  overflow: auto;
+  border:1px solid white;
+  color:black;
+}
+
+.panel{
+  margin-bottom:2px;
+  overflow: auto;
+}
+
+#noMargin{
+  margin-top:0px;
+}
+
+#hodor{
+  height:350px;
+}
+
+.joffrey{
+  height:300px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#correctQuestion1{
+  padding-top: 20px;
+}
+
+.question1, .question2{
+  cursor:pointer;
+
+}
+
+.jumbotron{
+  opacity: 0.95;
+}
+
+
+
+
+
+
+
